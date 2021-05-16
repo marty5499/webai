@@ -1,0 +1,40 @@
+{
+    "version": "0.1.0",
+    "files": [
+        {
+            "address": 131072,
+            "bin": "m_0x020000_webai_std.bin",
+            "sha256Prefix": true
+        },
+        {
+            "address": 2752512,
+            "bin": "m_0x2A0000_webai_min.bin",
+            "sha256Prefix": true
+        },
+        {
+            "address": 4194304,
+            "bin": "m_0x400000_maixpy_spiffs.img",
+            "sha256Prefix": false
+        },
+        {
+            "address": 7340032,
+            "bin": "m_0x700000_maix_asr.kmodel",
+            "sha256Prefix": false
+        },
+        {
+            "address": 9961472,
+            "bin": "m_0x980000_font_unicode_fix.Dzk",
+            "sha256Prefix": false
+        },
+        {
+            "address": 12124160,
+            "bin": "m_0xB90000_yolo_monster.kmodel",
+            "sha256Prefix": false
+        },
+        {
+            "address": 13893632,
+            "bin": "m_0xD40000_face_mask.kmodel",
+            "sha256Prefix": false
+        }
+    ]
+}
